@@ -13,6 +13,10 @@ The page indexing report in Search Console is a chart. It lags, it rounds, and i
 
 We built it to watch a new site get indexed. It showed us ten pages in "Crawled, currently not indexed" that Google indexed two days later without crawling them again. The write-up, with the method and the timestamps: [Crawled, currently not indexed: we changed nothing and Google indexed all ten](https://aistrikeforce.com/crawled-currently-not-indexed).
 
+## See it in under a minute
+
+https://github.com/user-attachments/assets/255e03c4-02ca-44a3-aebf-7e960426d177
+
 ## Quick start
 
 ```bash
