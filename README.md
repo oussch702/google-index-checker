@@ -5,6 +5,8 @@
 ![Zero dependencies](https://img.shields.io/badge/dependencies-0-2ea44f)
 [![MIT license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
+![Which pages has Google actually indexed? google-index-checker checks every URL in your sitemap and shows what changed since your last run.](assets/launch.png)
+
 A bulk Google index checker. It inspects every URL in your sitemap with the official Search Console URL Inspection API, saves the result for each page, and tells you exactly what changed since the last run.
 
 The page indexing report in Search Console is a chart. It lags, it rounds, and it never tells you which page moved. This tool gives you the live status of every single URL, so you can follow each page from discovered to indexed.
