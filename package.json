@@ -1,0 +1,45 @@
+{
+  "name": "google-index-checker",
+  "version": "1.0.0",
+  "description": "Bulk Google index checker: inspect every URL in your sitemap with the Search Console URL Inspection API and see what changed since the last run.",
+  "type": "module",
+  "bin": {
+    "google-index-checker": "bin/google-index-checker.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "google-index-checker",
+    "bulk-index-checker",
+    "index-checker",
+    "google-indexing",
+    "google-search-console",
+    "search-console-api",
+    "url-inspection-api",
+    "technical-seo",
+    "seo",
+    "sitemap",
+    "crawled-currently-not-indexed",
+    "cli"
+  ],
+  "homepage": "https://aistrikeforce.com/crawled-currently-not-indexed",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oussch702/google-index-checker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oussch702/google-index-checker/issues"
+  },
+  "author": "Oussama Chicha (https://aistrikeforce.com)",
+  "license": "MIT"
+}

@@ -1,0 +1,13 @@
+node_modules/
+census/
+*.csv
+
+# Credentials never belong in the repository.
+.env
+.env.*
+*service-account*.json
+*credentials*.json
+*-key.json
+*_key.json
+client_secret*.json
+application_default_credentials.json
